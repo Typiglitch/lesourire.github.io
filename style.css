@@ -210,15 +210,15 @@ h1{
 .facebook .icon{
     background:var(--facebook);
     color:#ffffff;
-    width: 36px;
-    height: 36px;
+    width: 32px;
+    height: 32px;
 }
 
 .telegram .icon{
     background:var(--telegram);
     color:#ffffff;
-    width: 36px;
-    height: 36px;
+    width: 32px;
+    height: 32px;
 }
 
 .icon svg{
